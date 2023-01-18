@@ -5,7 +5,7 @@
 ### App Walk-though
 
 
-<img src="https://imgur.com/a/HbNT63x.gif" width=200><br>
+<img src="https://imgur.com/a/HbNT63x" width=300><br>
 
 ### Required Features
 
